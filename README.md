@@ -9,3 +9,5 @@ This project uses clustering methods to identify student “AP personas” based
 
 All code for data cleaning, clustering, model comparison, and interpretation is contained in the Python notebook file. Open the `.ipynb` notebook and run the cells from top to bottom to reproduce the analysis.
 
+## Reflection
+Submitted as a assignment. 
