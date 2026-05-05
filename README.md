@@ -11,3 +11,8 @@ All code for data cleaning, clustering, model comparison, and interpretation is 
 
 ## Reflection
 Submitted as a assignment. 
+
+## Video Link
+https://1926541-2.kaf.kaltura.com/media/1_06hkij82
+
+
